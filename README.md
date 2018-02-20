@@ -1,1 +1,0 @@
-# board-zerynth-genuino_zero
