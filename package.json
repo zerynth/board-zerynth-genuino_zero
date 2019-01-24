@@ -1,8 +1,8 @@
 {
     "dependencies": {
-        "sys.zerynth.armgcc": "r2.1.2",
-        "sys.zerynth.bossac": "r2.1.2",
-        "vhal.zerynth.armcmx_atmelsamd21": "r2.1.2"
+        "sys.zerynth.armgcc": "r2.2.0",
+        "sys.zerynth.bossac": "r2.2.0",
+        "vhal.zerynth.armcmx_atmelsamd21": "r2.2.0"
     },
     "description": "Add support for Arduino/Genuino Zero",
     "fullname": "board.zerynth.genuino_zero",
@@ -21,6 +21,6 @@
     ],
     "repo": "official",
     "title": "Arduino/Genuino Zero Support Package",
-    "version": "r2.1.2",
+    "version": "r2.2.0",
     "whatsnew": " "
 }
