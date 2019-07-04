@@ -1,0 +1,15 @@
+---
+description: Add support for Arduino/Genuino Zero
+fullname: board.zerynth.genuino_zero
+info:
+    board: Arduino/Genuino Zero
+    chip_manufacturer: Microchip/Atmel
+    device: samd21
+    family_type: ARM Cortex M0+
+keywords:
+- arduino
+- board
+- atmel
+- microchip
+title: Arduino/Genuino Zero Support Package
+...
